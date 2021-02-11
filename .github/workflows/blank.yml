@@ -44,5 +44,5 @@ jobs:
       - name: Install CUDA 10.1
         run: choco install cuda --version=10.1
 
-      - name: Install Unity 2019.4.19
-        run: choco install unity --version=2019.4.19
+      - name: Install Unity 2020.2.3
+        run: choco install unity --version=2020.2.3
